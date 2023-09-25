@@ -28,3 +28,20 @@ address {
   margin: 0px;
   color: #0f0f0f;
 }
+
+.about_us {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.about_title {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.tab-content {
+  border-left: 1px solid #ddd;
+  border-right: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+  padding: 10px;
+}
